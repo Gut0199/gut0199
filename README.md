@@ -1,4 +1,8 @@
-### Olá👋
+### Olá👋 Prazer, sou o José Augusto e "sou viciado em café "
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+                    </p>
+                    
 
 <!--
 **Gut0199/gut0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
