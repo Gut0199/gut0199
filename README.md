@@ -1,4 +1,4 @@
-<h1>Hello 👋, nice to meet you 🤝, my name's José Augusto and I'm more one of a "coffee" addict!</h1>
+<h1>Hello 👋, nice to meet you 🤝, my name's José Augusto and I'm more one of a "coffee <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />" addict!</h1>
 <h3>Jokes aside, it's a pleasure to have you here on my profile. As I'm still an "Aspiring" programmer, you're very likely to find some very "Peculiar" and "Noob" things here 😉.</h3>
 <p>________________________________________________________________________________________________________________________________________________________</p>
 <h3>About Me:</h3>
