@@ -2,7 +2,7 @@
 <h3>Jokes aside, it's a pleasure to have you here on my profile. As I'm still an "Aspiring" programmer, you're very likely to find some very "Peculiar" and "Noob" things here 😉.</h3>
 <br></br>
 <h3>About Me:</h3>
-<p></p>
+<p>Just a Brazilian boy, trying to follow his dream of one day working in computing. Since I was younger, I've always loved computer games, videogames and cell phones, it was then that I started to become more interested in the subject of development of both devices and games. Today more "experienced", I continue in search of this dream but with a different focus. Today I'm totally focused on the Back-end area, on developing features, dealing with errors, dealing with sending and receiving data, "Making things work" so to speak.</p>
 <h3>My Skill's:</h3>
 <p></p>                    
 
